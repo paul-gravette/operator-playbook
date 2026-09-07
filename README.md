@@ -4,9 +4,9 @@ Practical checklists and templates for **operators** — people who build, buy, 
 
 ## Who this is for
 
-- Founders and operators inside PE-backed or high-growth companies
-- Investors who get hands-on with portfolio ops
-- Anyone tired of vague “best practices” with no next step
+- CEOs and operators inside PE-backed or high-growth companies
+- PE value-creation leads and hands-on investors
+- Founders who want operating rhythm without process theater
 
 ## What’s inside
 
@@ -14,6 +14,7 @@ Practical checklists and templates for **operators** — people who build, buy, 
 |------|------------|
 | [`checklists/weekly-ops.md`](checklists/weekly-ops.md) | A tight weekly operating rhythm |
 | [`checklists/diligence-lite.md`](checklists/diligence-lite.md) | Fast first-pass diligence before a deep dive |
+| [`checklists/value-creation-scorecard.md`](checklists/value-creation-scorecard.md) | Quarterly lever-based scorecard for CEOs / PE |
 | [`templates/decision-memo.md`](templates/decision-memo.md) | One-page decision memos your team will actually read |
 
 ## How to use
@@ -31,7 +32,7 @@ Practical checklists and templates for **operators** — people who build, buy, 
 ## Related
 
 - Site: [paulgravette.com](https://www.paulgravette.com)
-- Companion repo: [launch-checklist](https://github.com/paul-gravette/launch-checklist)
+- Companion: [pe-operating-kit](https://github.com/paul-gravette/pe-operating-kit) · [launch-checklist](https://github.com/paul-gravette/launch-checklist)
 
 ---
 
