@@ -31,9 +31,9 @@ Practical checklists and templates for **operators** — people who build, buy, 
 ## Related
 
 - Site: [paulgravette.com](https://www.paulgravette.com)
-- Companion repo: [launch-checklist](https://github.com/paulgravette007/launch-checklist)
+- Companion repo: [launch-checklist](https://github.com/paul-gravette/launch-checklist)
 
 ---
 
-Maintained by [Paul Gravette](https://github.com/paulgravette007) / Gravette Capital.  
+Maintained by [Paul Gravette](https://github.com/paul-gravette) / Gravette Capital.  
 PRs welcome for sharper checklists — keep them operator-useful, not theoretical.
