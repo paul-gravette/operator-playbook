@@ -1,0 +1,27 @@
+name: Request or improve a template
+description: Suggest a new template or a change to an existing one.
+title: "Template idea: "
+labels: ["template-idea"]
+body:
+  - type: textarea
+    id: job
+    attributes:
+      label: What are you trying to get done?
+      description: The decision, meeting, or report this would help with.
+    validations:
+      required: true
+  - type: textarea
+    id: today
+    attributes:
+      label: How do you handle it today?
+  - type: input
+    id: template
+    attributes:
+      label: Existing template (if improving one)
+  - type: dropdown
+    id: credit
+    attributes:
+      label: Credit
+      options:
+        - Credit me by GitHub handle if you use this
+        - Keep me anonymous
