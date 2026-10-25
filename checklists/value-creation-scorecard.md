@@ -39,3 +39,7 @@ _What we said would create value when we bought / took the seat:_
 ## Board / PE one-liner
 
 _Ahead / on track / behind — and the single biggest unlock for next period:_
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).

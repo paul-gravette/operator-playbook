@@ -38,3 +38,7 @@ _What forced this decision? 3–5 sentences._
 ## Ask
 
 _Exact yes/no or choice you need from the reader._
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).

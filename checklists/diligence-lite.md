@@ -41,3 +41,7 @@ List 3 claims that must be true for this to work:
 - [ ] Pass
 
 **Why (3 bullets max):**
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).

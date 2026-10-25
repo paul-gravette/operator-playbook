@@ -29,3 +29,7 @@
 ## Notes
 
 _Ship the checklist by Monday noon. Don’t let it become a meeting._
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).
