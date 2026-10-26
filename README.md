@@ -1,5 +1,7 @@
 # Operator Playbook
 
+> **Get one AI fix every week, plus a free starter lesson.** [Join the free newsletter](https://www.paulgravette.com/newsletter?utm_source=github&utm_medium=readme). Check your inbox and tap Confirm to join.
+
 Practical checklists and templates for **operators** — people who build, buy, and scale companies (not just write decks about them).
 
 ## Who this is for
