@@ -1,16 +1,8 @@
 # AI habits of the top CEOs
 
-A short, sourced set of working habits from eight CEOs at the center of the AI boom. The words below are theirs. The step under each one is something a CEO or PE operating partner can try in their company this week.
+A short, sourced set of working habits from seven CEOs at the center of the AI boom. The words below are theirs. The step under each one is something a CEO or PE operating partner can try in their company this week.
 
 Quotes are verbatim from the interviews and articles cited. An ellipsis (…) marks where a quote is trimmed at the start or the end.
-
-## Sam Altman — CEO, OpenAI
-
-> "Honestly, I use it in the boring ways, and I use it for like, help me process all of this email or help me summarize this document, or they're just the, the very boring things."
-
-**Source:** Official transcript, [*ReThinking with Adam Grant*](https://www.ted.com/podcasts/rethinking-with-adam-grant/sam-altman-on-the-future-of-ai-and-humanity-transcript), "Sam Altman on the future of AI and humanity," TED Audio Collective, 7 January 2025.
-
-**Try this in your company this week:** Have one crowded inbox or a long document summarized first, and spend the time you get back on the decision only you can make.
 
 ## Lisa Su — CEO, AMD
 
