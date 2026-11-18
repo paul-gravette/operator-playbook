@@ -12,7 +12,7 @@ Quotes are verbatim from the interviews and articles cited. An ellipsis (…) ma
 
 **Source:** Elon Musk, [post on X](https://x.com/elonmusk/status/1943213444477399380), 10 July 2025.
 
-<!-- TODO: Disclosure: Paul Gravette owns Tesla stock. -->
+Disclosure: Paul Gravette owns Tesla stock.
 
 **Try this in your company this week:** Hand an AI tool one hard, real problem your team has not solved, not a question you could look up, and have an engineer check every answer before anyone acts on it.
 
