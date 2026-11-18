@@ -4,6 +4,16 @@ A short, sourced set of working habits from eight CEOs at the center of the AI b
 
 Quotes are verbatim from the interviews and articles cited. An ellipsis (…) marks where a quote is trimmed at the start or the end.
 
+## Elon Musk — CEO, Tesla
+
+> "Because the way that the road system is designed is for AI. It's basically, I should say, it's for intelligence, biological neural net, and eyes. That's how the whole road system is designed. So what will actually work best for the road system is artificial intelligence, digital neural nets, and cameras. And we also have the microphones. The car can hear emergency vehicles, that kind of thing."
+
+**Source:** [CNBC](https://www.cnbc.com/2025/05/20/cnbc-transcript-elon-musk-sits-down-with-cnbcs-david-faber-live-on-cnbc-today-.html), unofficial transcript of Elon Musk's interview with David Faber on *Power Lunch*, 20 May 2025.
+
+<!-- TODO: Disclosure: Paul Gravette owns Tesla stock. -->
+
+**Try this in your company this week:** Take one system you are building or buying and design it to fit how the work already happens in the real world, instead of adding extra layers that do not match that design.
+
 ## Lisa Su — CEO, AMD
 
 > "I'm absolutely using [Microsoft] Copilot and it's one of the things that we use when you think about, you know, very easy things to do, you know, summarize meetings, track action items, you know."
@@ -94,16 +104,6 @@ Disclosure: Paul Gravette owns Meta stock.
 
 **Try this in your company this week:** Sit with a colleague and work a prompt in real time, watching the result take shape one line at a time, instead of sending the task away to be finished alone.
 
-
-## Elon Musk — CEO, Tesla
-
-> "Because the way that the road system is designed is for AI. It's basically, I should say, it's for intelligence, biological neural net, and eyes. That's how the whole road system is designed. So what will actually work best for the road system is artificial intelligence, digital neural nets, and cameras. And we also have the microphones. The car can hear emergency vehicles, that kind of thing."
-
-**Source:** [CNBC](https://www.cnbc.com/2025/05/20/cnbc-transcript-elon-musk-sits-down-with-cnbcs-david-faber-live-on-cnbc-today-.html), unofficial transcript of Elon Musk's interview with David Faber on *Power Lunch*, 20 May 2025.
-
-<!-- TODO: Disclosure: Paul Gravette owns Tesla stock. -->
-
-**Try this in your company this week:** Take one system you are building or buying and design it to fit how the work already happens in the real world, instead of adding extra layers that do not match that design.
 
 ---
 
