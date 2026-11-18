@@ -6,13 +6,15 @@ Quotes are verbatim from the interviews and articles cited. An ellipsis (…) ma
 
 ## Elon Musk — CEO, Tesla
 
-> "Because the way that the road system is designed is for AI. It's basically, I should say, it's for intelligence, biological neural net, and eyes. That's how the whole road system is designed. So what will actually work best for the road system is artificial intelligence, digital neural nets, and cameras. And we also have the microphones. The car can hear emergency vehicles, that kind of thing."
+> "Grok 4 is the first time, in my experience, that an AI has been able to solve difficult, real-world engineering questions where the answers cannot be found anywhere on the Internet or in books.
+>
+> And it will get much better."
 
-**Source:** [CNBC](https://www.cnbc.com/2025/05/20/cnbc-transcript-elon-musk-sits-down-with-cnbcs-david-faber-live-on-cnbc-today-.html), unofficial transcript of Elon Musk's interview with David Faber on *Power Lunch*, 20 May 2025.
+**Source:** Elon Musk, [post on X](https://x.com/elonmusk/status/1943213444477399380), 10 July 2025.
 
 <!-- TODO: Disclosure: Paul Gravette owns Tesla stock. -->
 
-**Try this in your company this week:** Take one system you are building or buying and design it to fit how the work already happens in the real world, instead of adding extra layers that do not match that design.
+**Try this in your company this week:** Hand an AI tool one hard, real problem your team has not solved, not a question you could look up, and have an engineer check every answer before anyone acts on it.
 
 ## Lisa Su — CEO, AMD
 
