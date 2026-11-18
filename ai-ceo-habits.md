@@ -4,7 +4,7 @@ A short, sourced set of working habits from eight CEOs at the center of the AI b
 
 Quotes are verbatim from the interviews and articles cited. An ellipsis (…) marks where a quote is trimmed at the start or the end.
 
-## Elon Musk — CEO, Tesla
+## Elon Musk — CEO, Tesla and xAI
 
 > "Grok 4 is the first time, in my experience, that an AI has been able to solve difficult, real-world engineering questions where the answers cannot be found anywhere on the Internet or in books.
 >
