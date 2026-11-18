@@ -26,7 +26,7 @@ On writing email with it:
 
 **Source:** Mark Hachman, [PCWorld](https://www.pcworld.com/article/2262634/amds-lisa-su-gets-candid-in-ai-go-slow-is-not-the-answer.html), 11 March 2024, from her conversation with Ryan Patel at SXSW. `[Microsoft]` is PCWorld's insertion.
 
-Disclosure: Paul Gravette owns AMD stock.
+Disclosure: Paul Gravette owns AMD and Microsoft stock.
 
 **Try this in your company this week:** After your next leadership meeting, use a tool to summarize what was said and list the action items, then write the follow-up note in your own voice.
 
