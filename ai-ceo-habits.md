@@ -2,15 +2,7 @@
 
 A short, sourced set of working habits from eight CEOs at the center of the AI boom. The words below are theirs. The step under each one is something a CEO or PE operating partner can try in their company this week.
 
-Quotes are verbatim from the interviews and articles cited.
-
-## Jensen Huang — CEO, NVIDIA
-
-> "When I am doing something serious, I will give the same prompt to all of them, and then I ask them to, because it's research oriented, critique each other's work. Then I take the best one."
-
-**Source:** Natasha Bernal, [WIRED](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/), 17 September 2025.
-
-**Try this in your company this week:** When a serious question is on the table, give the same research prompt to more than one model, ask them to critique each other's work, and keep the strongest result.
+Quotes are verbatim from the interviews and articles cited. An ellipsis (…) marks where a quote is trimmed at the start or the end.
 
 ## Sam Altman — CEO, OpenAI
 
@@ -19,26 +11,6 @@ Quotes are verbatim from the interviews and articles cited.
 **Source:** Official transcript, [*ReThinking with Adam Grant*](https://www.ted.com/podcasts/rethinking-with-adam-grant/sam-altman-on-the-future-of-ai-and-humanity-transcript), "Sam Altman on the future of AI and humanity," TED Audio Collective, 7 January 2025.
 
 **Try this in your company this week:** Have one crowded inbox or a long document summarized first, and spend the time you get back on the decision only you can make.
-
-## Satya Nadella — CEO, Microsoft
-
-> "The best way for me to consume podcasts is not to actually go listen to it but to have a conversation with the transcript on my commute using my Copilot. Who'd have thought?"
-
-> "But it is more convenient because of the modality, the fact that I can speak to it, I can interrupt it... There's no going back."
-
-**Source:** Todd Bishop, [GeekWire](https://www.geekwire.com/2025/the-surprising-way-that-microsoft-ceo-satya-nadella-uses-ai-to-consume-podcasts-on-his-commute/), 17 March 2025, quoting Nadella on the Minus One podcast from South Park Commons.
-
-**Try this in your company this week:** Talk through one meeting transcript or briefing on the commute instead of playing it back, and interrupt when a point is worth keeping.
-
-## Sundar Pichai — CEO, Google / Alphabet
-
-> "I felt sad at that point talking to it. But I think the area where it shines the most is asking questions. Like, my dad is about to turn 80. And I was like, hey, what do I do with my dad on an 80th birthday?"
-
-> "It's not that it's profound, but it says things and kind of sparks the imagination. In my case, it said, you should make a scrapbook. And I was like, great... It kind of oriented me a particular way."
-
-**Source:** Richard Currie, [The Register](https://www.theregister.com/2023/04/05/google_bard_sundar_pichai), 5 April 2023, reporting Pichai's remarks on *The New York Times* [Hard Fork](https://www.nytimes.com/2023/03/31/podcasts/hard-fork-sundar.html) podcast (31 March 2023).
-
-**Try this in your company this week:** Ask one practical question that orients a real decision — a board dinner, a site visit, a company milestone — then take only the idea that actually fits.
 
 ## Lisa Su — CEO, AMD
 
@@ -52,6 +24,40 @@ On writing email with it:
 
 **Try this in your company this week:** After your next leadership meeting, use a tool to summarize what was said and list the action items, then write the follow-up note in your own voice.
 
+## Satya Nadella — CEO, Microsoft
+
+> "The best way for me to consume podcasts is not to actually go listen to it but to have a conversation with the transcript on my commute using my Copilot. Who'd have thought?"
+
+> "But it is more convenient because of the modality, the fact that I can speak to it, I can interrupt it... There's no going back."
+
+**Source:** Todd Bishop, [GeekWire](https://www.geekwire.com/2025/the-surprising-way-that-microsoft-ceo-satya-nadella-uses-ai-to-consume-podcasts-on-his-commute/), 17 March 2025, quoting Nadella on the Minus One podcast from South Park Commons.
+
+**Try this in your company this week:** Talk through one meeting transcript or briefing on the commute instead of playing it back, and interrupt when a point is worth keeping.
+
+## Jensen Huang — CEO, NVIDIA
+
+> "When I am doing something serious, I will give the same prompt to all of them, and then I ask them to, because it's research oriented, critique each other's work. Then I take the best one."
+
+**Source:** Natasha Bernal, [WIRED](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/), 17 September 2025.
+
+**Try this in your company this week:** When a serious question is on the table, give the same research prompt to more than one model, ask them to critique each other's work, and keep the strongest result.
+
+## Demis Hassabis — CEO, Google DeepMind
+
+> "Yes. I don't use it quite as a confidant yet, although maybe at some point I will. I use it a lot for brainstorming. So, you know, project ideas, project names, you know, think creative ideas. I quite like it as a kind of sparring partner for that. And that's probably the main use."
+
+He also uses it to:
+
+> "…summarize some new area of research... I'm not so expert in but I want to get a quick take on, you know, the main key points,"
+
+and later said:
+
+> "I definitely use it as a kind of sparring partner."
+
+**Source:** Two Minute Papers interview, ["Demis Hassabis On What AI Will Do Next"](https://www.youtube.com/watch?v=huAwz_BR8WM), YouTube, 25 May 2026.
+
+**Try this in your company this week:** Use it as a sparring partner for a project name or a quick reading of an unfamiliar brief, then decide for yourself.
+
 ## Dario Amodei — CEO, Anthropic
 
 > "I do. I have not gotten to the point where I actually allow text directly written by Claude because I just have such a specific style that I'm a little picky about it. But I basically use Claude to like, you know, to help me brainstorm, to help me think through the themes, to help me kind of, oh, you know, what are some references I could use for this? So it kind of plays a supportive role."
@@ -62,15 +68,15 @@ On writing email with it:
 
 **Try this in your company this week:** Use it to brainstorm themes and gather references for a memo or board note, but write every final sentence yourself.
 
-## Demis Hassabis — CEO, Google DeepMind
+## Sundar Pichai — CEO, Google / Alphabet
 
-> "Yes. I don't use it quite as a confidant yet, although maybe at some point I will. I use it a lot for brainstorming. So, you know, project ideas, project names, you know, think creative ideas. I quite like it as a kind of sparring partner for that. And that's probably the main use."
+In 2023, on *The New York Times* Hard Fork podcast:
 
-He also uses it to "summarize some new area of research... I'm not so expert in but I want to get a quick take on, you know, the main key points," and later said: "I definitely use it as a kind of sparring partner."
+> "…It's not that it's profound, but it says things and kind of sparks the imagination. In my case, it said, you should make a scrapbook. And I was like, great... It kind of oriented me a particular way."
 
-**Source:** Two Minute Papers interview, ["Demis Hassabis On What AI Will Do Next"](https://www.youtube.com/watch?v=huAwz_BR8WM), YouTube, 25 May 2026.
+**Source:** Richard Currie, [The Register](https://www.theregister.com/2023/04/05/google_bard_sundar_pichai), 5 April 2023, reporting Pichai's remarks from that 2023 interview (podcast published 31 March 2023).
 
-**Try this in your company this week:** Use it as a sparring partner for a project name or a quick reading of an unfamiliar brief, then decide for yourself.
+**Try this in your company this week:** When a suggestion sparks the imagination, keep only the idea that actually orients the decision in front of you.
 
 ## Mark Zuckerberg — CEO, Meta
 
@@ -78,7 +84,7 @@ He also uses it to "summarize some new area of research... I'm not so expert in 
 
 Of one daughter's novel:
 
-> "we sit and, you know, when we hang out with her, we'll use Meta AI to generate the images."
+> "…we sit and, you know, when we hang out with her, we'll use Meta AI to generate the images."
 
 **Source:** Bloomberg Originals, *The Circuit*, ["Inside Mark Zuckerberg's AI Era"](https://www.bloomberg.com/news/videos/2024-07-23/inside-mark-zuckerberg-s-ai-era-video), 23 July 2024. Also on [YouTube](https://www.youtube.com/watch?v=YuIc4mq7zMU).
 
