@@ -22,6 +22,8 @@ On writing email with it:
 
 **Source:** Mark Hachman, [PCWorld](https://www.pcworld.com/article/2262634/amds-lisa-su-gets-candid-in-ai-go-slow-is-not-the-answer.html), 11 March 2024, from her conversation with Ryan Patel at SXSW. `[Microsoft]` is PCWorld's insertion.
 
+Disclosure: Paul Gravette owns AMD stock.
+
 **Try this in your company this week:** After your next leadership meeting, use a tool to summarize what was said and list the action items, then write the follow-up note in your own voice.
 
 ## Satya Nadella — CEO, Microsoft
@@ -32,6 +34,8 @@ On writing email with it:
 
 **Source:** Todd Bishop, [GeekWire](https://www.geekwire.com/2025/the-surprising-way-that-microsoft-ceo-satya-nadella-uses-ai-to-consume-podcasts-on-his-commute/), 17 March 2025, quoting Nadella on the Minus One podcast from South Park Commons.
 
+Disclosure: Paul Gravette owns Microsoft stock.
+
 **Try this in your company this week:** Talk through one meeting transcript or briefing on the commute instead of playing it back, and interrupt when a point is worth keeping.
 
 ## Jensen Huang — CEO, NVIDIA
@@ -39,6 +43,8 @@ On writing email with it:
 > "When I am doing something serious, I will give the same prompt to all of them, and then I ask them to, because it's research oriented, critique each other's work. Then I take the best one."
 
 **Source:** Natasha Bernal, [WIRED](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/), 17 September 2025.
+
+Disclosure: Paul Gravette owns NVIDIA stock.
 
 **Try this in your company this week:** When a serious question is on the table, give the same research prompt to more than one model, ask them to critique each other's work, and keep the strongest result.
 
@@ -55,6 +61,8 @@ and later said:
 > "I definitely use it as a kind of sparring partner."
 
 **Source:** Two Minute Papers interview, ["Demis Hassabis On What AI Will Do Next"](https://www.youtube.com/watch?v=huAwz_BR8WM), YouTube, 25 May 2026.
+
+Disclosure: Paul Gravette owns Alphabet stock.
 
 **Try this in your company this week:** Use it as a sparring partner for a project name or a quick reading of an unfamiliar brief, then decide for yourself.
 
@@ -75,6 +83,8 @@ In 2023, on *The New York Times* Hard Fork podcast:
 > "…It's not that it's profound, but it says things and kind of sparks the imagination. In my case, it said, you should make a scrapbook. And I was like, great... It kind of oriented me a particular way."
 
 **Source:** Richard Currie, [The Register](https://www.theregister.com/2023/04/05/google_bard_sundar_pichai), 5 April 2023, reporting Pichai's remarks from that 2023 interview (podcast published 31 March 2023).
+
+Disclosure: Paul Gravette owns Alphabet stock.
 
 **Try this in your company this week:** When a suggestion sparks the imagination, keep only the idea that actually orients the decision in front of you.
 
