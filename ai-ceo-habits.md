@@ -1,8 +1,20 @@
 # AI habits of the top CEOs
 
-A short, sourced set of working habits from seven CEOs at the center of the AI boom. The words below are theirs. The step under each one is something a CEO or PE operating partner can try in their company this week.
+A short, sourced set of working habits from eight CEOs at the center of the AI boom. The words below are theirs. The step under each one is something a CEO or PE operating partner can try in their company this week.
 
 Quotes are verbatim from the interviews and articles cited. An ellipsis (…) marks where a quote is trimmed at the start or the end.
+
+## Elon Musk — CEO, Tesla and xAI
+
+> "Grok 4 is the first time, in my experience, that an AI has been able to solve difficult, real-world engineering questions where the answers cannot be found anywhere on the Internet or in books.
+>
+> And it will get much better."
+
+**Source:** Elon Musk, [post on X](https://x.com/elonmusk/status/1943213444477399380), 10 July 2025.
+
+Disclosure: Paul Gravette owns Tesla stock.
+
+**Try this in your company this week:** Hand an AI tool one hard, real problem your team has not solved, not a question you could look up, and have an engineer check every answer before anyone acts on it.
 
 ## Lisa Su — CEO, AMD
 
@@ -93,6 +105,7 @@ Of one daughter's novel:
 Disclosure: Paul Gravette owns Meta stock.
 
 **Try this in your company this week:** Sit with a colleague and work a prompt in real time, watching the result take shape one line at a time, instead of sending the task away to be finished alone.
+
 
 ---
 

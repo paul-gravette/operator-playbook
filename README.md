@@ -18,7 +18,7 @@ Practical checklists and templates for **operators** — people who build, buy, 
 | [`checklists/diligence-lite.md`](checklists/diligence-lite.md) | Fast first-pass diligence before a deep dive |
 | [`checklists/value-creation-scorecard.md`](checklists/value-creation-scorecard.md) | Quarterly lever-based scorecard for CEOs / PE |
 | [`templates/decision-memo.md`](templates/decision-memo.md) | One-page decision memos your team will actually read |
-| [`ai-ceo-habits.md`](ai-ceo-habits.md) | Seven sourced CEO habits, each with one step to try this week |
+| [`ai-ceo-habits.md`](ai-ceo-habits.md) | Eight sourced CEO habits, each with one step to try this week |
 
 ## How to use
 
